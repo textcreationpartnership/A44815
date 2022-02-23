@@ -1,0 +1,154 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The vision of the Lord of Hosts faithfully declared in his own time, and the decree of the Lord God also recorded, which is nigh to be fulfilled : also a few words to friends of truth, whom the Lord is trying in this day, and smething to those that remain of that generation of men who improved not their day, but were rebellious aganst the Lord, and treacherous to his people : with a few words to the magistrates of this land now in authority / by a handmaid of the Lord, M.H.</title>
+            <author>Howgill, Mary.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1662</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A44815</idno>
+            <idno type="STC">Wing H3192</idno>
+            <idno type="STC">ESTC R6705</idno>
+            <idno type="EEBO-CITATION">13506262</idno>
+            <idno type="OCLC">ocm 13506262</idno>
+            <idno type="VID">99805</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A44815)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 99805)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 791:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The vision of the Lord of Hosts faithfully declared in his own time, and the decree of the Lord God also recorded, which is nigh to be fulfilled : also a few words to friends of truth, whom the Lord is trying in this day, and smething to those that remain of that generation of men who improved not their day, but were rebellious aganst the Lord, and treacherous to his people : with a few words to the magistrates of this land now in authority / by a handmaid of the Lord, M.H.</title>
+                  <author>Howgill, Mary.</author>
+               </titleStmt>
+               <extent>7 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1662.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Written by Mary Howgill.  Cf. BM.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:99805:1"/>
+            <pb facs="tcp:99805:1" rendition="simple:additions"/>
+            <p>THE VISION OF THE Lord of Hoſts, Faithfully declared in his own time; and the DECREE of the LORD GOD alſo Re<g ref="char:EOLhyphen"/>corded, which is nigh to be fulfilled.</p>
+            <p>ALSO, A few WORDS to FRIENDS of TRUTH, whom the LORD is Trying in this Day.</p>
+            <p>And ſomething to thoſe that remain of that Generati<g ref="char:EOLhyphen"/>on of Men who improved not their Day, but were Rebellious againſt the Lord, and Treacherous to his People.</p>
+            <p>With a few WORDS to the <hi>MAGISTRATES</hi> of this <hi>LAND</hi> now in Authority.</p>
+            <p>By a Handmaid of the Lord, <hi>M. H.</hi>
+            </p>
+            <p>Printed in the Year, 1662.</p>
+         </div>
+      </front>
+      <body>
+         <div type="vision">
+            <pb facs="tcp:99805:2"/>
+            <pb n="3" facs="tcp:99805:2" rendition="simple:additions"/>
+            <head>The <hi>Viſion</hi> of the <hi>Lord</hi> of <hi>Hoſts,</hi> faithfully declared in his own time; and the <hi>Decree</hi> of the <hi>Lord God</hi> alſo Recorded, which is nigh to be fulfilled, <hi>&amp;c.</hi>
+            </head>
+            <p>IN the year 1660, in the ſecond month thereof, I was at the Town of <hi>Colcheſter</hi> at my Friend's houſe, and in the evening ſeaſon, I went to my Bed to take my reſt in God, where refreſhment from him I did receive to my ſoul, and alſo to my naturals, having at that time but little ſtrength as to my natural life; And ſo according to God's will, and the mind of the Lord, I gave up my ſelf, and lay down upon my Bed, in God's Will and Word, in which Word I was kept and preſerved.</p>
+            <p>After a little ſeaſon, ſweet ſleep came upon me, and I was ſome hours in a deep and a calm ſleep, which did refreſh my naturals, and I was in the Word of the living God, which did keep me and refreſh my ſoul, and after a ſeaſon did awake me.</p>
+            <p>And the living God did appear unto me by Viſion, and ſhewed me the dark, horrible, and miſerable eſtate that would come on this Land of <hi>England,</hi> and on the People therein: he ſhewed me a great Cloud that ſpread over all the Nation, and many violent and bloody men the Lord ſhewed me in the Cloud: And as he ſhewed me that the Cloud ſhould come upon the Nation, ſo he ſhewed me that it ſhould break upon the Nation; and the men of blood ſhould fall in great fury and rage upon many, and do great violence unto many.</p>
+            <p>And further, the Lord appeared unto me in Viſion, and he ſhewed me a great and dark Wood in theſe Southward parts, and in the Wood were many Pits, and in the Pits were many Beaſts, which had many horns and ſharp, and great jaws, and great paws alſo. There was among them one great Beaſt, in bigneſs and fury above them all. Theſe Beaſts had been long chained and fettered in the Pits and Wood of Darkneſs, and
+<pb n="4" facs="tcp:99805:3" rendition="simple:additions"/>
+they roared to be at liberty. It was ſhewed unto me that they would be greedy of their prey, even to the ſhedding of innocent blood, which they had long thirſted for.</p>
+            <p>And when the Lord had ſhewed me theſe things in the Vi<g ref="char:EOLhyphen"/>ſion of the Cloud, and that it ſhould ſpread over the Nation, and ſhould break on the Nation, and that the bloody men therein ſhould fall upon many with cruelty, Then did ſorrow ſeize on my heart, and great grief upon my ſoul, and a great weight upon my body, which cauſed my lips to quiver, and my belly to tremble, and a Cry ran rhorow me, <hi>O Lord, what wilt thou do with this Land, or with thy People therein, unto whom thou haſt ſo largely manifeſted thy Name? O Lord, wilt thou hide thy Face from us, or take the light of thy Countenance from us, that hath in ſo large a meaſure ſhined on us? Or wilt thou ſuffer theſe men of violence to bruiſe and deſtroy the bodies of them that bear thine Elect Seed? Wilt thou ſuffer the Beaſts to come out of their Pits, their Chains to be broken, and their Fetters to be unlooſed, they being ſo greedy of prey?</hi> Then the Cry was in me, <hi>O Lord, ſlay not the Righteous with the Wicked:</hi> And a great Earthquake was upon me, and I was in great travel in ſpirit, ſoul, and body, for the whole Land of <hi>England,</hi> and little or no comfort had I, until I heard the Lord's voice, who ſpake unto me, and ſaid, <hi>Fear not thou, my Daughter, none of theſe things which I have ſhewed unto thee; but believe in my Name, made known unto thee.</hi> Then I ſaid, O Lord, who ſhall ſtand for thee? or, who ſhall declare thy Name, or ſpeak of thy wonderful Works, or of thy large Salvation whereby thou haſt wrought, and brought wonderful and great things to paſs, as in the years paſt? If thou ſuffer the Cloud to come upon all, who then ſhall declare of it? Or, if thou ſuffer the Night of Darkneſs to ſpread over all, who then ſhall be able to work? or, who ſhall ſpeak of thy mighty Truth? Wherefore (there being upon my Spirit a deep ſence of the cruelty of thoſe Beaſts, which where to be unchained, and to come out of the Pits of Darkneſs) I ſaid, <hi>Ariſe, O Lord, and avenge thine own Cauſe, ſuffer not thy Name to be troden down, or rooted out of this Land of</hi> England, <hi>in which (even above and beyond all other Lands) thou haſt ſo largely made thy ſelf manifeſt; ſuffer
+<pb n="5" facs="tcp:99805:3" rendition="simple:additions"/>
+it not to be rooted out by the Dragon and his followers.</hi> And theſe were my Cries unto the Lord in the hour of deep ſufferings.</p>
+            <p>And the Lord who ſhewed me theſe things, he heard my Cries alſo, and he ſaid, to my great ſatisfaction, <hi>Keep theſe things in thine own breaſt, and ſeal theſe words in thy own heart, and wait upon me,</hi> ſaid the living God, <hi>until I ſhew thee fur<g ref="char:EOLhyphen"/>ther, and until my appointed time, that I bid thee to publiſh them abroad.</hi>
+            </p>
+            <p>And further, the Lord ſaid to my great ſatisfaction, <hi>I will ſuffer this Violence to come, and the Chains of the Wild-beaſts to be broken, that they may bow down a ſtiff-necked and a gain-ſaying People, againſt me, and againſt my Name: I will harden</hi> Pha<g ref="char:EOLhyphen"/>raoah's <hi>heart, that I may ſhew my Power upon every man and woman; and I will ſuffer the Violent to go on in their Violence, for the tryal of the Faith of my own People, unto whom I have made known my Kingdom, and entruſted them with my Secrets, upon whom in the Light of my Countenance will I ſhine, and they ſhall ſee the Glory of my Throne, and they ſhall magnifie my Name. And after the night of Apoſtacy, and after the Dragon's Rage, my People ſhall bear a further Teſtimony of my great and glorious Name, and they ſhall leave a more clear and heavenly Declara<g ref="char:EOLhyphen"/>tion upon record, than my Servants heretofore have done, and it ſhall ſtand to Ages, and in Generations to come, that they may ſee how God manifeſted himſelf unto his People in a day of great ſuffering.</hi>
+            </p>
+            <p>Bleſſed, Bleſſed are all who wait upon the living God, and hear what he ſaith unto them, either by Revelation, by Viſion, or by Prophecy; and bleſſed are they that in the Lord's time either ſpeak or write by Revelation, by Pro<g ref="char:EOLhyphen"/>phecy, or Viſion. And the time is already come, wherein many Prophecies, Viſions and Revelations are already fulfil<g ref="char:EOLhyphen"/>led, and are ſealed up in him, who hath revealed and made known himſelf by Viſion, as I have before-mentioned; And the Eternal God alone hath ſealed up many unto himſelf in his own Seed, which all the afore-mentioned ends in. Bleſſed are all they that are in that eſtate, for the bleſſed Inheritance and Crown of the Lord is aſſured unto them.</p>
+            <p>
+               <pb n="6" facs="tcp:99805:4" rendition="simple:additions"/>And now is the time of the Lord, wherein he hath required me to write what he ſhewed me by Viſion, much whereof it already come on this Land, and fulfilled upon it, and that which is behind is nigh to be fulfilled. The Cloud hath ſpread over all, and violent men have done great violence, even unto God's Worſhippers; And many are ariſen out of the Pits, their Chains being broken, and their Fetters un<g ref="char:EOLhyphen"/>looſed, which have held them many years; and as many as have had their liberty have been greedy of their prey, having long thirſted for the blood of the Saints; and many are yet to ariſe, whoſe Chains ſhall be broken: And he whom the Lord ſhewed me, the biggeſt amongſt them and greateſt in fury, he ſhall ariſe the laſt out of the Pit, and will be ſuffered to give one great puſh, and no more, which will be terrible; but the Lord will ſmite him, and the Beaſts that were looſed before him, and God will turn them together into the Pit of Darkneſs from whence they aroſe, out of which they ſhall never ariſe again againſt the Lord nor his Heritage.</p>
+            <p>And now all dear Friends every-where, dwell in God, the Father of Light, that you may all witneſs his Dominion, ſo will he nouriſh you all, even as the true Woman in the Wil<g ref="char:EOLhyphen"/>derneſs, <hi>for a time, times, and half a time.</hi> The Lord nou<g ref="char:EOLhyphen"/>riſh you all, and feed you all with his own living Word, that you may all ſee the ſmoak of the Pit vaniſh away, and the power thereof (which hath for many years ariſen againſt the Lord and his People) troden down by the living God. Wait all until the Lord's time and hour be accompliſhed, in which you ſhall ſee Violence put to an end, and alſo ſee the bleſſed Eſtate that I have before-mentioned. So in the bleſſed Truth I bid you farewell.</p>
+            <p>And now to you who have put out the Candle of the Lord in your ſelves, and are become altogether Darkneſs, and have given your Power wholly to the Beaſt and his followers, you therefore ſhall feel the ſtroak of God's hand, which will be dreadful to you; and under which you ſhall confeſs that the
+<pb n="7" facs="tcp:99805:4" rendition="simple:additions"/>
+holy Prophets of the Lord did in years paſt deal faithfully with you, when they propheſyed unto you what would come upon you: Oh hearken you People, for to you I write, through whom the Nation is become miſerable, and you your ſelves become ſlaves, and your name become a ſtink in the Nation, with him whom God hath cut off before you. Is not your Form of Worſhip and the glory thereof withered? yea, even as the flower withereth before the Sun in the Summer ſeaſon, ſo is it withered away, and your gallant Glory is now tram<g ref="char:EOLhyphen"/>pled upon by the Dragon, unto whom you gave your Power, and the memorial thereof ſhall die and rot, even as thoſe whoſe name and memorial is already rotted. And hearken you who put out the Candle of the Lord in your ſelves, where<g ref="char:EOLhyphen"/>with you were once lighted; mark what God hath done to <hi>Oliver Cromwel,</hi> even for this cauſe, that he put out the Can<g ref="char:EOLhyphen"/>dle of the Lord in himſelf.</p>
+            <p>And all you Magiſtrates of this Land who are now in Au<g ref="char:EOLhyphen"/>thority. Oh! you have grieved the Lord, and highly provoked him to anger, by afflicting his Children; and you have grieved our ſouls from time to time, and afflicted our bodies alſo, and have the blood of many as a guilt upon you. Oh this, I tell you, will bring the Lord's Judgment upon you unawares, even as a thief in the night, will it break upon you when you are not aware: for, no warning will you yet receive from the Lord's People, and you muſt know the ſtroak of God's hand with them that proved rebellious before you, and when you feel the weight thereof, you ſhall then remember this Warning.</p>
+            <closer>
+               <signed>From a Lover of Truth and Righteouſneſs. <hi>M. H.</hi>
+               </signed>
+            </closer>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
